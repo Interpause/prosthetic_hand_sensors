@@ -8,7 +8,7 @@ As project done under the Raffles Science Institute, our project was presented a
 - John-Henry Lim
 - Lin Si Qi
 
-Our report has also been added to the repository for convinient reference: [`./report.pdf`](./report.pdf)
+Our report has also been added to the repository for convinient reference: [`./Report.pdf`](./Report.pdf)
 
 ## Code
 
